@@ -1,1 +1,6 @@
-# 2021-2M-acessibilidade-ditigal-G10
+# 2021-2M-acessibilidade-digital-G10
+
+- Humberto
+- Igor
+- Arthur Dondoni
+- Thomas
